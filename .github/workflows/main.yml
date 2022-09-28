@@ -1,0 +1,46 @@
+name: Build and Publish
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    env:
+      DOC_NAME: article.md
+      HTML_NAME: output/index.html
+      PDF_NAME: output/article.pdf
+      LATEX_TEMPLATE: templates/chroma-article.tex
+      DOCX_TEMPLATE: templates/custom-reference.docx
+      HTML_TEMPLATE: templates/template.html
+      HTML_CSS: templates/pandoc.css
+      PANDOC_ARGS: --bibliography references.bib --csl templates/apa.csl --variable=numbersections --variable=indent --number-sections --citeproc 
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: create output dir
+        run: |
+          mkdir output  # create output dir
+          cp -a media output/
+
+      - name: build HTML version
+        uses: docker://pandoc/core
+        with:
+          args: ${{ env.PANDOC_ARGS }} --template=${{ env.HTML_TEMPLATE }} --output=${{ env.HTML_NAME }} ${{ env.DOC_NAME }} --css ${{ env.HTML_CSS }}
+          
+      - name: build PDF version
+        uses: docker://charlepm/pandoc-latex-libertine:0.3.0
+        with:
+          args: --standalone ${{ env.PANDOC_ARGS }} --template=${{ env.LATEX_TEMPLATE }} --output=${{ env.PDF_NAME }} ${{ env.DOC_NAME }}
+                    
+      - name: upload output folder
+        uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: output
+          
+      - name: publish output folder to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
