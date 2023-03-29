@@ -1,50 +1,40 @@
----
-title: 'Thinking About Syncing: Examining the impact of 21^st^ century DJ technology on the production
-and performance of Electronic Dance Music'
-author: 
-    - name: Mike Callander
-      affiliation: University of Melbourne
-      city: Melbourne
-      country: Australia
-      email: fake.author@fake.edu.au
-author-header: M. Callander
-abstract: |
-  The introduction of synchronisation (sync) to the professional toolkit
-  of the disc jockey (DJ) in the early 2000s proved to be controversial
-  and divisive. Until that point, DJs had been so focused on
-  beatmatching---the manual process of tempo-setting and alignment of
-  tracks---that many dismissed sync as 'cheating'. Concern over
-  technology-assisted creative output is not unique to electronic dance
-  music (EDM). David Hockney's investigation into the use of optical aids
-  by the Old Masters highlighted similar perspectives in visual art. As
-  sync has simplified some of the mechanical aspects of DJing, DJs have
-  shifted away from building sets by sequencing pre-recorded audio made by
-  other music producers towards an approach that incorporates
-  improvisatory composition and production. Through a process of
-  reflective practice and critical review of technique and repertoire both
-  pre- and post-sync, this paper discusses how technology shapes and
-  informs the realisation of a DJ set, highlighting how sync has catalysed
-  a disconnect between the performer, their gestures, the source material
-  and audiences, necessitating a rethink on how we demonstrate and
-  recognise technical virtuosity in performance. This paper concludes by
-  arguing that virtuosity in modern DJing is primarily a product of
-  instrument configuration and pre-production, an amalgamation of formerly
-  distinct production and performance techniques, and identifies how
-  sync's affordances might inform future views on DJ practice and the
-  presentation of EDM.
-anonymous: 'false'
-bibliography: 'references'
-papersize: a4
-classoption: 12pt
-reference-section-title: 'References'
-year: 2022
-volume: 38
-number: 1
-article-no: X
-date: '2021-10-30'
-accepted-date: '2022-09-28'
-published-date: 'YYYY-MM-DD'
----
+**Thinking About Syncing.**
+
+Examining the impact of 21^st^ century DJ technology on the production
+and performance of Electronic Dance Music.
+
+**Mike Callander**
+
+University of Melbourne
+
+# Abstract
+
+The introduction of synchronisation (sync) to the professional toolkit
+of the disc jockey (DJ) in the early 2000s proved to be controversial
+and divisive. Until that point, DJs had been so focused on
+beatmatching---the manual process of tempo-setting and alignment of
+tracks---that many dismissed sync as 'cheating'. Concern over
+technology-assisted creative output is not unique to electronic dance
+music (EDM). David Hockney's investigation into the use of optical aids
+by the Old Masters highlighted similar perspectives in visual art. As
+sync has simplified some of the mechanical aspects of DJing, DJs have
+shifted away from building sets by sequencing pre-recorded audio made by
+other music producers towards an approach that incorporates
+improvisatory composition and production. Through a process of
+reflective practice and critical review of technique and repertoire both
+pre- and post-sync, this paper discusses how technology shapes and
+informs the realisation of a DJ set, highlighting how sync has catalysed
+a disconnect between the performer, their gestures, the source material
+and audiences, necessitating a rethink on how we demonstrate and
+recognise technical virtuosity in performance. This paper concludes by
+arguing that virtuosity in modern DJing is primarily a product of
+instrument configuration and pre-production, an amalgamation of formerly
+distinct production and performance techniques, and identifies how
+sync's affordances might inform future views on DJ practice and the
+presentation of EDM.
+
+**\
+**
 
 # Introduction
 
@@ -793,22 +783,21 @@ and policies remain in place.
 
 # References
 
-```{=latex}
-\begin{hangparas}{1.5em}{1}
-```
 Andersen, T. H. (2005). In the mixxx: novel digital DJ interfaces. *CHI
 '05* *Extended* *Abstracts of Human Factors in Computing Systems*, USA,
 1136--1137. <https://doi.org/10.1145/1056808.1056850>
 
 Attias, B. A. (2013). Subjectivity in the Groove: Phonography,
-Digitality and Fidelity. In B. A. Attias, A. Gavanas, \& H. C. Rietveld
+Digitality and Fidelity. In B. A. Attias, A. Gavanas, & H. C. Rietveld
 (Eds.), *DJ Culture in the Mix: Power, Technology and Social Change in
 Electronic Dance Music* (pp. 15--49). New York: Bloomsbury.
+
+‌
 
 Baumann, M. (2003). 80SC7SEQ. On *Prodigal Son* \[2LP\]. Frankfurt:
 Resopal Schallware.
 
-Bolt, B. (2010). The Magic is in Handling. In E. Barrett \& B.
+Bolt, B. (2010). The Magic is in Handling. In E. Barrett & B.
 Bolt, *Practice as Research: Approaches to Creative Arts Enquiry* (pp.
 27-34). London: IB Tauris.
 
@@ -982,10 +971,6 @@ Button Pushers. *Gizmodo*.
 Zlatopolsky, A. (2015). Behind the Groove: The Ron Murphy Story.
 Retrieved 20 October 2021, from
 <https://daily.redbullmusicacademy.com/2015/05/ron-murphy-feature>
-
-```{=latex}
-\end{hangparas}
-```
 
 [^1]: In DJ parlance, 'track' usually refers to an arranged work.
     Historically these were played from vinyl, then from CDs. The advent
