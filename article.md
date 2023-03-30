@@ -6,7 +6,7 @@ author:
       affiliation: University of Melbourne
       city: Melbourne
       country: Australia
-      email: fake.author@fake.edu.au
+      email: hello@mikecallander.com.au
 author-header: M. Callander
 abstract: |
   The introduction of synchronisation (sync) to the professional toolkit
@@ -40,10 +40,10 @@ reference-section-title: 'References'
 year: 2022
 volume: 38
 number: 1
-article-no: X
+article-no: 4
 date: '2021-10-30'
 accepted-date: '2022-09-28'
-published-date: 'YYYY-MM-DD'
+published-date: '2023-03-31'
 ---
 
 # Introduction
