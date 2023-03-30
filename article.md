@@ -362,7 +362,7 @@ our understanding of how each work was created can be advanced through
 more focused research -- why didn't Cézanne use optics?
 
 ![Caravaggio's *Basket of Fruit* 1597/1600. Source: [Google Arts & Culture](https://g.co/arts/AdsMtfH9NKWAsckQ6), reproduced under a creative commons
-license.](./media/fig1-fruit.png)
+license.](./media/fig1-fruit.jpg)
 
 ![Cézanne's *Apples* 1878-79. Source: [Google Arts & Culture](https://artsandculture.google.com/asset/apples-paul-c%C3%A9zanne/yAEUXsQdLx5tkA), reproduced under a creative commons
 license.](./media/fig2-apples.jpg)
@@ -436,7 +436,7 @@ virtuosity and authenticity.
 *TLD* paid homage to traditional DJ practice. Comprising fourteen tracks
 by other producers, the continuous set was live-mixed by the author.
 
-![Mike Callander mix for *Honkytonks: The Last Dance* (2006)](./media/fig3-honkytonks.png)
+![Mike Callander mix for *Honkytonks: The Last Dance* (2006)](./media/fig3-honkytonks.jpg)
 
 ## Pre-Production
 
@@ -593,7 +593,7 @@ long.
 ![ *RTO* timeline from Ableton Live. Clips from Live's Session View
 were recorded into the Arrangement View. The fourth layer (light blue)
 shows MIDI notation from Native Instruments Maschine 2. The fifth layer
-(green) is summed audio from the Model 1.](./media/fig4-rto.png)
+(green) is summed audio from the Model 1.](./media/fig4-rto.jpg)
 
 The CD liner for Hawtin's *Decks EFX & 909* (1999) presented a similar
 view of DJing that departs from typical Deck A to Deck B programming;
@@ -603,7 +603,7 @@ this was a more elaborate deconstruction and reassembly of tracks, with
 a less obvious delineation between one and the next, and less adherence
 to the outro-intro conventions of DJing with commercial releases.
 
-![Arrangement detail from Hawtin's *Decks EFX & 909* (1999).](./media/fig5-decksEFX909.png)
+![Arrangement detail from Hawtin's *Decks EFX & 909* (1999).](./media/fig5-decksEFX909.jpg)
 
 ## Deconstructing a modern mix
 
@@ -620,10 +620,27 @@ deconstructions of two original works, the summed audio transformed
 gradually over time. This approach to assembling tracks was continued
 throughout the hour-long performance.
 
-![Timestamps for tracks played in *RTO*. Red rows indicate where
-clips from three separate tracks played simultaneously. At other times
-the set represented blended duplicates or triplicates from the same
-source audio.](./media/fig6-timestamps-table.png)
+| ITEM | TIME | TRACK 1 | TRACK 2 | TRACK 3 |
+|---|---|---|---|---|
+| 1 | 0:44 - 4:07 | Moog Modular 3.2 | Moog Modular 3.2 | Moog Modular 3.2 |
+| 2 | 4:07 - 6:18 | Moog Modular 3.2 | Moog Modular 3.2 | Jupiter 6 ALT 3 Hypnogroove  |
+| 3 | 6:18 - 9:34 | Moog Modular 3.2 | Jupiter 6 ALT 3 Hypnogroove  | Jupiter 6 ALT 3 Hypnogroove  |
+| 4 | 9:34 - 9:38* | Buchla 200 v5 new comp quickmix | Jupiter 6 ALT 3 Hypnogroove  | Jupiter 6 ALT 3 Hypnogroove  |
+| 5 | 9:38 - 13:15 | Buchla 200 v5 new comp quickmix | Jupiter 6 ALT 3 Hypnogroove  | Buchla 200 v5 new comp quickmix |
+| 6 | 13:15 - 13:17* | Buchla 200 v5 new comp quickmix | Miniman 7.1 (2020) v5 new comp | Buchla 200 v5 new comp quickmix |
+| 7 | 13:17 - 22:03 | Buchla 200 v5 new comp quickmix | Miniman 7.1 (2020) v5 new comp | Miniman 7.1 (2020) v5 new comp |
+| **8** | **22:03 - 24:24** | **Buchla 200 v5 new comp quickmix** | **Miniman 7.1 (2020) v5 new comp** | **Monomillsian 7 newcomp** |
+| 9 | 24:24 - 28:05 | Monomillsian 7 newcomp | Miniman 7.1 (2020) v5 new comp | Monomillsian 7 newcomp |
+| **10** | 28:05 - 31:26 | Monomillsian 7 newcomp | Miniman 7.1 (2020) v5 new comp | **New Cwejman System START AGAIN v2** |
+| 11 | 31:26 - 34:00 | Monomillsian 7 newcomp | New Cwejman System START AGAIN v2 | New Cwejman System START AGAIN v2 |
+| **12** | 34:00 - 34:22* | Monomillsian 7 newcomp | New Cwejman System START AGAIN v2 | **King of the Bush 2020 - for real time online** |
+| 13 | 34:22 - 41:43 | King of the Bush 2020 - for real time online | New Cwejman System START AGAIN v2 | King of the Bush 2020 - for real time online |
+| **14** | 41:43 - 41:45* | King of the Bush 2020 - for real time online | **New Cwejman System START AGAIN v2 | Korg Poly 5 - new comp** |
+| 15 | 41:45 - 44:33 | King of the Bush 2020 - for real time online | Korg Poly 5 - new comp | Korg Poly 5 - new comp |
+| **16** | 44:33 - 45:19 | King of the Bush 2020 - for real time online | **Korg Poly 5 - new comp | New Cwejman System v2** |
+| 17 | 45:19 - 53:00 | New Cwejman System v2 | Korg Poly 5 - new comp | New Cwejman System v2 |
+| 18 | 53:00 - end | New Cwejman System v2 | Korg Poly 5 - new comp | __Man I Am Ready 2020 new comp this track was not made audible.__ |
+Table: Timestamps for tracks played in *RTO*. Bold rows (8, 10, 12, 14, 16) indicate where clips from three separate tracks played simultaneously. At other times the set represented blended duplicates or triplicates from the same source audio.
 
 The process of moving from one track to the next represented a kind of
 homogenisation between works. If part of one track stood out from the
