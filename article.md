@@ -361,22 +361,11 @@ argument was not that one work is more skilled than the other, but that
 our understanding of how each work was created can be advanced through
 more focused research -- why didn't Cézanne use optics?
 
-![A basket of fruit Description automatically generated with low
-confidence](./media/image1.png){width="5.390259186351706in"
-height="4.153846237970254in"}
+![Caravaggio's *Basket of Fruit* 1597/1600. Source: Google Arts & Culture, reproduced under a creative commons
+license.](./media/fig1-fruit.png)
 
-Fig. 1: Caravaggio's *Basket of Fruit* 1597/1600.
-
-Source: Google Arts & Culture, reproduced under a creative commons
-license.
-
-![A painting of pumpkins Description automatically generated with low
-confidence](./media/image2.png){width="5.44021106736658in"
-height="3.815384951881015in"}
-
-Fig. 2: Cézanne's *Apples* 1878-79.\
-Source: Google Arts & Culture, reproduced under a creative commons
-license.
+![Cézanne's *Apples* 1878-79. Source: Google Arts & Culture, reproduced under a creative commons
+license.](./media/fig2-apples.png)
 
 This kind of enquiry allows us to better understand why artists deploy
 different techniques and media: Cézanne's decision to "eyeball" a
@@ -447,11 +436,7 @@ virtuosity and authenticity.
 *TLD* paid homage to traditional DJ practice. Comprising fourteen tracks
 by other producers, the continuous set was live-mixed by the author.
 
-![Mike Callander mix for Honkytonks: The Last Dance
-(2006)](./media/image3.jpeg){width="5.056137357830271in"
-height="2.692308617672791in"}
-
-Fig. 3: Mike Callander mix for *Honkytonks: The Last Dance* (2006)
+![Mike Callander mix for *Honkytonks: The Last Dance* (2006)](./media/fig3-honkytonks.png)
 
 ## Pre-Production
 
@@ -605,14 +590,10 @@ correlation between performance gestures and sonic outcomes. The visual
 timeline below shows which tracks were introduced, when, and for how
 long.
 
-![A screenshot of a computer Description automatically generated with
-medium confidence](./media/image4.png){width="5.726450131233595in"
-height="2.376922572178478in"}
-
-Fig. 4: *RTO* timeline from Ableton Live. Clips from Live's Session View
+![ *RTO* timeline from Ableton Live. Clips from Live's Session View
 were recorded into the Arrangement View. The fourth layer (light blue)
 shows MIDI notation from Native Instruments Maschine 2. The fifth layer
-(green) is summed audio from the Model 1.
+(green) is summed audio from the Model 1.](./media/fig4-rto.png)
 
 The CD liner for Hawtin's *Decks EFX & 909* (1999) presented a similar
 view of DJing that departs from typical Deck A to Deck B programming;
@@ -622,11 +603,7 @@ this was a more elaborate deconstruction and reassembly of tracks, with
 a less obvious delineation between one and the next, and less adherence
 to the outro-intro conventions of DJing with commercial releases.
 
-![A screenshot of a computer Description automatically generated with
-low confidence](./media/image5.jpeg){width="5.646906167979003in"
-height="2.223077427821522in"}
-
-Fig. 5: arrangement detail from Hawtin's *Decks EFX & 909* (1999).
+![Arrangement detail from Hawtin's *Decks EFX & 909* (1999).](./media/fig5-decksEFX909.png)
 
 ## Deconstructing a modern mix
 
@@ -643,14 +620,10 @@ deconstructions of two original works, the summed audio transformed
 gradually over time. This approach to assembling tracks was continued
 throughout the hour-long performance.
 
-![Table Description automatically
-generated](./media/image6.png){width="4.245923009623797in"
-height="3.4692311898512687in"}
-
-Fig. 6: Timestamps for tracks played in *RTO*. Red rows indicate where
+![Timestamps for tracks played in *RTO*. Red rows indicate where
 clips from three separate tracks played simultaneously. At other times
 the set represented blended duplicates or triplicates from the same
-source audio.
+source audio.](./media/fig6-timestamps-table.png)
 
 The process of moving from one track to the next represented a kind of
 homogenisation between works. If part of one track stood out from the
@@ -837,7 +810,7 @@ Culture*.
 <https://artsandculture.google.com/asset/basket-of-fruit-caravaggio-michelangelo-merisi/MwEu3e99qoXUHA>
 
 Cézanne, P. (1878-79). Apples \[image\]. *Google Arts & Culture*.
-[https://artsandculture.google.com/asset/apples-paul-cézanne/yAEUXsQdLx5tkA](https://artsandculture.google.com/asset/apples-paul-cézanne/yAEUXsQdLx5tkA)
+<https://artsandculture.google.com/asset/apples-paul-cézanne/yAEUXsQdLx5tkA>
 
 de La Rocha, Z., Morello, T., Comerford, T., & Wilk, B. (1992). *Rage
 Against The Machine* \[Recorded by Rage Against The Machine\]. \[CD\].
@@ -955,8 +928,6 @@ Dreck Records.
 Schaeffer, P. (2012). *In Search of a Concrete Music* (C. North & J.
 Dack, Trans.). Berkeley: University of California Press. (Original work
 published 1952)
-
-‌
 
 Shapiro, P. (2005). *Turn The Beat Around: The Secret History of Disco*.
 New York, NY: Faber and Faber.
