@@ -361,11 +361,11 @@ argument was not that one work is more skilled than the other, but that
 our understanding of how each work was created can be advanced through
 more focused research -- why didn't Cézanne use optics?
 
-![Caravaggio's *Basket of Fruit* 1597/1600. Source: Google Arts & Culture, reproduced under a creative commons
+![Caravaggio's *Basket of Fruit* 1597/1600. Source: [Google Arts & Culture](https://g.co/arts/AdsMtfH9NKWAsckQ6), reproduced under a creative commons
 license.](./media/fig1-fruit.png)
 
-![Cézanne's *Apples* 1878-79. Source: Google Arts & Culture, reproduced under a creative commons
-license.](./media/fig2-apples.png)
+![Cézanne's *Apples* 1878-79. Source: [Google Arts & Culture](https://artsandculture.google.com/asset/apples-paul-c%C3%A9zanne/yAEUXsQdLx5tkA), reproduced under a creative commons
+license.](./media/fig2-apples.jpg)
 
 This kind of enquiry allows us to better understand why artists deploy
 different techniques and media: Cézanne's decision to "eyeball" a
