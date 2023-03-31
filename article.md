@@ -640,7 +640,7 @@ throughout the hour-long performance.
 | 15 | 41:45 - 44:33 | King of the Bush 2020 - for real time online | Korg Poly 5 - new comp | Korg Poly 5 - new comp |
 | **16** | **44:33 - 45:19** | **King of the Bush 2020 - for real time online** | **Korg Poly 5 - new comp** | **New Cwejman System v2** |
 | 17 | 45:19 - 53:00 | New Cwejman System v2 | Korg Poly 5 - new comp | New Cwejman System v2 |
-| 18 | 53:00 - end | New Cwejman System v2 | Korg Poly 5 - new comp | __Man I Am Ready 2020 new comp this track was not made audible.__ |
+| 18 | 53:00 - end | New Cwejman System v2 | Korg Poly 5 - new comp | _Man I Am Ready 2020 new comp this track was not made audible._ |
 Table: Timestamps for tracks played in *RTO*. Bold rows (8, 10, 12, 14, 16) indicate where clips from three separate tracks played simultaneously. At other times the set represented blended duplicates or triplicates from the same source audio.
 
 The process of moving from one track to the next represented a kind of
