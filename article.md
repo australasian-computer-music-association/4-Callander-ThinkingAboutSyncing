@@ -431,10 +431,10 @@ virtuosity and authenticity.
 
 ## The Last Dance
 
-[Full Set (1)](https://doi.org/10.5281/zenodo.5574244)
-
 *TLD* paid homage to traditional DJ practice. Comprising fourteen tracks
-by other producers, the continuous set was live-mixed by the author.
+by other producers, the continuous set was live-mixed by the author[^fullsettld].
+
+[^fullsettld]: The full set for *TLD* can be found online here: <https://doi.org/10.5281/zenodo.5574244>
 
 ![Mike Callander mix for *Honkytonks: The Last Dance* (2006)](./media/fig3-honkytonks.jpg)
 
@@ -537,11 +537,9 @@ than *Sgt. Pepper*'s 700 hours of production using multi-track tape.
 
 ## Real Time, Online
 
-[Full Set (2)](https://doi.org/10.5281/zenodo.5574244)
-
 *Real Time, Online* deployed a modern approach to DJing that was
 inspired by the LG format discussed earlier: un-arranged, loop-based
-tracks were assembled in real-time. Performed across six channels and
+tracks were assembled in real-time[^fullsetrto]. Performed across six channels and
 held together by sync, records and turntables were replaced by three
 channels of pre-recorded audio and accompanied by three more channels of
 electronic instruments. In June 2020, with support from the City of
@@ -555,6 +553,9 @@ sum of pre-recorded audio and improvised accompaniment would be unique
 to the moment of assembly. The intent for *RTO* was to push the
 boundaries of DJing as far as possible, as Hawtin inferred, allowing the
 DJ to do "something else" (Gholz 2011, p. 59).
+
+[^fullsetrto]: The full set for *RTO* can be found online here: <https://doi.org/10.5281/zenodo.5574244>
+
 
 ## Pre-Production
 
