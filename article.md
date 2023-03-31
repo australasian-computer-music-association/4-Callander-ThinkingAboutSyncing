@@ -111,7 +111,7 @@ that they undermine the development of musical technique" (2013, p. 21).
 
 It is no surprise that many vinyl DJs considered sync and digital audio
 a threat to the craft; product developers pursued a workflow where
-beatmatching's "cognitive load is heavily reduced" (Anderson 2005), and
+beatmatching's "cognitive load is heavily reduced" (Andersen 2005), and
 resistance came from both practitioners and academics. Mills suggested
 that DJing might become "nothing more than a button any promoter can
 push" (2013), while van Veen and Attias (2011) lamented that "the role
@@ -127,7 +127,7 @@ mp3s and computer programs such as Ableton Live, the notion that vinyl
 and turntables represent the authentic technology of DJ culture seems
 somewhat redundant" and that \"there needs to be a redefinition of the
 concept of DJing and a reframing of the skills and abilities seen as
-being essential to DJ practice" (2010, p.397).
+being essential to DJ practice" (2010, p. 397).
 
 Regardless of the DJ's choice to beatmatch by hand or by sync, from an
 outsider's perspective, the set---the culmination of DJ curation and
@@ -208,7 +208,7 @@ together at random and play backwards before putting it in the
 concentric run-out groove of side two"[^3] (Julien 2008, p. 7). Pierre
 Schaeffer was the first to exploit disc-based audio looping and
 performance on multiple turntables---using shellac records to create
-what he called "closed grooves" (Schaeffer 1952, 32-36)---an approach
+what he called "closed grooves" (Schaeffer 1952, pp. 32-36)---an approach
 that would be revisited by Techno producers playing vinyl in the 1990s.
 
 In the 1980s, the UK Musicians' Union expressed concern that Gary
@@ -227,7 +227,7 @@ In Detroit in 1992, Mills asked his record cutting engineer, Ron Murphy,
 to cut circular grooves on one side of a double-LP release (Mills, Banks
 & Hood 1992) to look like The Rings of Saturn. Where The Beatles had
 added looped, layered, and reversed outtake chatter from the band's
-studio sessions (Lewisohn 1989, 109), Mills at first sought a visual
+studio sessions (Lewisohn 1989, p. 109), Mills at first sought a visual
 effect. Murphy experimented further to add audio to the grooves
 (Zlatopolsky 2015). At a fixed tempo, 133.33 beats per minute (BPM), and
 with the record spinning at 33.33 revolutions per minute (RPM), he
@@ -359,13 +359,13 @@ especially next to Cézanne's awkward apples that appeared after
 photographic perfection could be achieved with a camera. Hockney's
 argument was not that one work is more skilled than the other, but that
 our understanding of how each work was created can be advanced through
-more focused research -- why didn't Cézanne use optics?
+more focused research---why didn't Cézanne use optics?
 
 ![Caravaggio's *Basket of Fruit* 1597/1600. Source: [Google Arts & Culture](https://g.co/arts/AdsMtfH9NKWAsckQ6), reproduced under a creative commons
-license.](./media/fig1-fruit.jpg)
+license.](./media/fig1-fruit.jpg){ width=90% }
 
 ![Cézanne's *Apples* 1878-79. Source: [Google Arts & Culture](https://artsandculture.google.com/asset/apples-paul-c%C3%A9zanne/yAEUXsQdLx5tkA), reproduced under a creative commons
-license.](./media/fig2-apples.jpg)
+license.](./media/fig2-apples.jpg){ width=90% }
 
 This kind of enquiry allows us to better understand why artists deploy
 different techniques and media: Cézanne's decision to "eyeball" a
@@ -399,7 +399,7 @@ optics do not make marks, only the artist's hand can do that, and it
 requires great skill. And optics don't make drawing any easier, either,
 far from it -- I know, I've used them" (2006, p. 14). Bolt reviewed
 Hockney's drawings with and without optics: "the line was much surer and
-more confident than the "groping lines" of a drawer struggling to "see"
+more confident than the 'groping lines' of a drawer struggling to 'see'
 and record freehand. However, in this confidence it lacked the struggle,
 the variation in line quality and indeterminacy of the eyeballed
 drawing" (2010, p. 28).
@@ -657,7 +657,7 @@ precise ([Transition 2B](https://doi.org/10.5281/zenodo.5574244)).
 
 Virtuosity in *RTO* was not displayed through tactile handling, but
 through performance configuration and pre-production; as Deadmau5
-explained: "my "skills" and other PRODUCER'S skills shine where it
+explained: "my 'skills' and other PRODUCER'S skills shine where it
 *\[sic\]* needs to shine: in the goddamned studio" (2012. Emphasis
 Zimmerman).
 
